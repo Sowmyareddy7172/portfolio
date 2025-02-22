@@ -22,7 +22,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 ## 🚀 Features
 - Smooth scrolling and animations ✨
 - Contact form to reach out 📧
-- shocasing skills
+- showcasing skills
 
 ## 🛠️ How to Use
 1. Clone the repository:
